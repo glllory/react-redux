@@ -1,0 +1,9 @@
+// .babelrc
+{
+    "presets": [
+        "react-native"
+    ],
+    "plugins": [
+        "transform-inline-environment-variables"
+    ]
+}
